@@ -1,0 +1,16 @@
+C:\Users\fstel\source\repos\findEncoding\findEncoding\bin\Debug\net5.0\findEncoding.exe
+C:\Users\fstel\source\repos\findEncoding\findEncoding\bin\Debug\net5.0\findEncoding.deps.json
+C:\Users\fstel\source\repos\findEncoding\findEncoding\bin\Debug\net5.0\findEncoding.runtimeconfig.json
+C:\Users\fstel\source\repos\findEncoding\findEncoding\bin\Debug\net5.0\findEncoding.runtimeconfig.dev.json
+C:\Users\fstel\source\repos\findEncoding\findEncoding\bin\Debug\net5.0\findEncoding.dll
+C:\Users\fstel\source\repos\findEncoding\findEncoding\bin\Debug\net5.0\ref\findEncoding.dll
+C:\Users\fstel\source\repos\findEncoding\findEncoding\bin\Debug\net5.0\findEncoding.pdb
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.AssemblyInfoInputs.cache
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.AssemblyInfo.cs
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.csproj.CoreCompileInputs.cache
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.dll
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\ref\findEncoding.dll
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.pdb
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.genruntimeconfig.cache
+C:\Users\fstel\source\repos\findEncoding\findEncoding\obj\Debug\net5.0\findEncoding.csproj.AssemblyReference.cache
